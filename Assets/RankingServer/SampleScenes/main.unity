@@ -209,8 +209,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c56ffe0f26e824884b5962aa48da15dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  access_game_key: 65315af00a3791a12e4f
-  access_token: $2a$10$v6mH1OD8b/8Mef/bNchvHuNF2EkoWMcYXp3wks.f5o2YF2mOOwc0u
+  _access_game_key: 65315af00a3791a12e4f
+  _access_token: $2a$10$v6mH1OD8b/8Mef/bNchvHuNF2EkoWMcYXp3wks.f5o2YF2mOOwc0u
+  _rankings: []
 --- !u!1 &1559338104
 GameObject:
   m_ObjectHideFlags: 0
